@@ -7,3 +7,4 @@
 7.buz eklendi.
 8.süt ekle
 9.biraz daha süt ekle
+10.ekstra krema ekle
