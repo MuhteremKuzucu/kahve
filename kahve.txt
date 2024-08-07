@@ -10,5 +10,5 @@
 10.ekstra krema ekle
 11.cikolata ekle
 12.hatasız kul olmaz
-13.vscode
+13.vscode.
 14.vscode branch oluştu
